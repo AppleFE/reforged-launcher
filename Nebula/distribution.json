@@ -395,6 +395,17 @@
             "url": "https://cdn.discordapp.com/attachments/1134538411336798250/1227359728300986549/Pixelmon-1.16.5-9.1.11-universal.jar?ex=66281ed2&is=6615a9d2&hm=ae054b8146c9dc4621e85f583970e4d2925baae67d4050bfb972d93f5938dfc4&",
             "MD5": "0bb7d4a2daf72158d550afd54d5a16d1"
           }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3002715,
+            "url": "https://github.com/AppleFE/reforged-launcher/raw/main/Nebula/servers/reforged-1.16.5/files/resourcepacks/generated.zip",
+            "MD5": "d6c207ec74200ba7f2b8a7aa54abc6a3",
+            "path": "resourcepacks/generated.zip"
+          }
         }
       ]
     }

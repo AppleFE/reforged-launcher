@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "reforged-1.16.5",
-      "name": "Pixelmon Reforged Server",
+      "name": "reforged (Minecraft 1.16.5)",
       "description": "reforged Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
       "version": "1.0.0",
@@ -397,6 +397,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4185,
+            "url": "https://github.com/AppleFE/reforged-launcher/raw/main/Nebula/servers/reforged-1.16.5/files/options.txt",
+            "MD5": "21ead045e1d1f75336529bd675e6f6cc",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "generated.zip",
           "name": "generated.zip",
           "type": "File",
@@ -405,6 +416,17 @@
             "url": "https://github.com/AppleFE/reforged-launcher/raw/main/Nebula/servers/reforged-1.16.5/files/resourcepacks/generated.zip",
             "MD5": "d6c207ec74200ba7f2b8a7aa54abc6a3",
             "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 82,
+            "url": "https://github.com/AppleFE/reforged-launcher/raw/main/Nebula/servers/reforged-1.16.5/files/servers.dat",
+            "MD5": "06d246e1cbfd425cb57a18b5712593c6",
+            "path": "servers.dat"
           }
         }
       ]

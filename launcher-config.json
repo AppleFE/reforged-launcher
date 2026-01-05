@@ -1,0 +1,25 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-01T23:00:00+09:00",
+    "minecraft": {
+        "version": "1.21.1"
+    },
+    "modLoader": {
+        "type": "neoforge",
+        "version": "21.1.83"
+    },
+    "server": {
+        "address": "192.168.1.122",
+        "port": 25565,
+        "autoConnect": true
+    },
+    "requiredMods": [
+        {
+            "name": "Pixelmon",
+            "fileName": "pixelmon.jar",
+            "downloadUrl": "https://dl.pixelmonmod.com/releases/Pixelmon-1.21.1-xxx.jar",
+            "hash": null,
+            "hashType": "sha256"
+        }
+    ]
+}

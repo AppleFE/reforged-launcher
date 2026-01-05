@@ -17,9 +17,10 @@
         {
             "name": "Pixelmon",
             "fileName": "pixelmon.jar",
-            "downloadUrl": "https://dl.pixelmonmod.com/releases/Pixelmon-1.21.1-xxx.jar",
+            "downloadUrl": "https://github.com/AppleFE/reforged-launcher/releases/download/test/Pixelmon-1.21.1-9.3.13-universal.jar",
             "hash": null,
             "hashType": "sha256"
         }
     ]
+
 }
